@@ -4,7 +4,7 @@ image: 'https://i.imgur.com/Ckf9Tau.png'
 date: '2021-06-07'
 ---
 
-All [Microlink Pro](#pricing) plans come with a built-in proxy layer called that does automatic proxy resolution & rotation based on the input URL.
+All [Microlink Pro](#pricing) plans come with a built-in proxy layer that does automatic proxy resolution & rotation based on the input URL.
 
 ## What's wrong with URLs
 
